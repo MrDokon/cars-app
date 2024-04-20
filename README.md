@@ -1,6 +1,6 @@
 # Jak odpalić projekt
 - Potrzebna java w wersji minimum 14 (ja korzystam z 17)
-- Potrzbny Maven do budowy projektu
+- Potrzbny Maven do budowy projektu - na poziomie folderu cars-app (z plikiem pom.xml) należy odpalić komendę: mvn clean install by sprawdzić czy projekt się buduje
 - Potrzebny npm do budowy frontu
 - Ja osobno odpalam backend w intellij i osobno frontend. Te dwie apki na spokojnie potrafią ze sobą rozmawiać
 
