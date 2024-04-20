@@ -1,0 +1,6 @@
+# nie testowałem, czy działa ten gitignore
+/cars-app-react-client/node_modules
+/cars-app/target
+/cars-app/.mvn
+/cars-app/.idea
+/cars-app-react-client/.idea
